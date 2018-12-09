@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="please_select_your_date">Please Select Your Date!</string>
+    <string name="save_my_date">Save My Date</string>
+</resources>
